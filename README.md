@@ -6,6 +6,6 @@
 </figure>
 
 
-Minimal Netlify Functions example with a single file static HTML frontend and no dependencies
+Minimal Netlify Functions example with a single file static HTML frontend and no dependencies.
 
-[![Deploy with Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/ekafyi/smol-netlify-functions)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ekafyi/smol-netlify-functions)
