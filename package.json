@@ -1,0 +1,8 @@
+{
+  "name": "smol-netlify-functions",
+  "version": "1.0.0",
+  "description": "Minimal Netlify Functions example with a static HTML frontend and no dependencies",
+  "scripts": {},
+  "author": "Eka",
+  "license": "MIT"
+}

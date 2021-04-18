@@ -1,0 +1,3 @@
+[build]
+  functions = "functions" # our function code is in this directory
+  publish = "build" # our static HTML file is in this directory
