@@ -17,4 +17,4 @@ This template may be useful if:
 
 - You don't need a frontend; you only need to develop the lambda functions
 - You have a static frontend (HTML, CSS, JS files in a folder) that requires no build process/command
-- You are new to how Netlify lambda functions work and want to explore without getting distracted by all dependencies and packages from the frontend web apps
+- You are new to Netlify lambda functions and want to explore how it works without getting distracted by the frontend web apps dependencies and commands
